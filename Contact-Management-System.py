@@ -1,7 +1,7 @@
 import os
 import re
 
-# Initialize an empty dictionary to store contacts
+# Empty dictionary to store contacts
 contacts = {}
 
 def display_menu():
